@@ -15,3 +15,5 @@ Helpful Youtube Channels
 - [Interview Questions with Jackson Gabbard (Ex-Facebook Engineer)](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 - [Fun Fun Function by MPJ](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [Hacker Rank](https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww)
+
+Most of my notes are also based on the [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) book.

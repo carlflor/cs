@@ -4,7 +4,7 @@ Reference: [Cracking the Coding Interview](http://www.crackingthecodinginterview
 - In writing algorithms it is necessary to have some way to measure how efficient our code will run and how much memory/space it would take.
 - We call this O(N) for Time and Space
 
-### Key points to measure O(N)
+### Key points to measure runtime/space complexity
 
 #### 1. Different steps get added based on inputs.
 

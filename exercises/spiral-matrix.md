@@ -1,4 +1,4 @@
-# Sprital Matrix
+# Spiral Matrix
 
 [Leet Code](https://leetcode.com/problems/spiral-matrix/description/)
 
@@ -56,7 +56,6 @@ function move(data, x, y, up, right, down, left, vector, output) {
   }
 
   output.push(data.matrix[y][x]);
-
 
   if (vector === 'right') {
     if (x === right && y === up) {
