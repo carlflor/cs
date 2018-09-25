@@ -203,5 +203,20 @@ class BinarySearchTree {
 
     return pre;
   }
+
+  isBST(root, left, right) {
+    if (root == null) {
+      return true;
+    }
+
+    if (left != null && (root.val < left.val || root.val == left.val))
+      return false;
+
+    if (right != null && (root.val > right.val || root.val == right.val))
+      return false;
+
+    return isBST(root.left, left, root) &&
+            isBST(root.right, root, right);
+  }
 }
 ```
