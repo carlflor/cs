@@ -1,6 +1,10 @@
 ### In-Place Palindrome Checker
 
 ``` js
+/**
+ * @param {string} str
+ * @return {boolean}
+ */
 function isPalindrome(str) {
   if (str.length <= 1)
     return true;
